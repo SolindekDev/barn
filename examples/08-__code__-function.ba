@@ -1,3 +1,0 @@
-fun main() {
-	__code__("printf(\"siema\")")
-}

@@ -1,8 +1,0 @@
-@import "lib/std.ba"
-
-fun main() {
-    while |true| {
-        print("siema")
-        break
-    }
-}

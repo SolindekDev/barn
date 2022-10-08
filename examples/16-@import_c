@@ -1,5 +1,0 @@
-@import_c "stdio.h"
-
-fun main() {
-    printf("Siema")
-}

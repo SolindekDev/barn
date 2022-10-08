@@ -1,4 +1,0 @@
-fun main() {
-    printf("Pseudo loop\n")
-    main()
-}

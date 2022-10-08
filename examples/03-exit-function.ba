@@ -1,9 +1,0 @@
-fun big_exit() {
-    exit(10000)
-}
-
-fun main() {
-    printf("Exit function\n")
-    big_exit()
-    exit(1)
-}

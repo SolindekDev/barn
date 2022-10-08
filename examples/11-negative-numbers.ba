@@ -1,3 +1,0 @@
-fun main() {
-    let negative: int = -2
-}
